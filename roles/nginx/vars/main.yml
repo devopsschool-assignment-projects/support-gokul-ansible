@@ -1,0 +1,10 @@
+---
+# vars file for nginx
+keepalive_timeout: 120s
+proxy_read_timeout: 120
+enable: true
+value: 26
+idleTimeout: 65
+maxMemoryBuffer: 5000kB
+cookieName: na
+secureSignUp: false

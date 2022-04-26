@@ -1,0 +1,5 @@
+---
+# file: Calling nginx 
+- hosts: localhost
+  roles:
+    - nginx
